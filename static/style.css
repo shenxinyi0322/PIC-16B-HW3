@@ -1,0 +1,39 @@
+html {
+    font-family: Lucida Console;
+    background: HoneyDew;
+    padding: 1rem;
+}
+
+body {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: FloralWhite;
+    font-family: Lucida Console;
+    margin: 1rem 0;
+    text-align: center;
+}
+
+nav {
+    background: LightSteelBlue;
+    padding: 0 0.5rem;
+    border-radius: 25px;
+    font-family: Lucida Console
+}
+
+nav ul li a {
+    display: block;
+    padding: 0.4rem;
+    color:DarkSlateGray;
+    font-family: Lucida Console
+}
+
+.content {
+    padding: 0 1rem 1rem;
+    background: LightSteelBlue;
+    border-radius: 25px;
+    color:DarkSlateGray;
+    font-family: Lucida Console
+}
